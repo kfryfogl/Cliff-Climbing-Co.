@@ -1,2 +1,2 @@
 # Cliff-Climbing-Co.
-Website for teh Cliff Climbing Co. FoCo project for GrC 377
+Website for the Cliff Climbing Co. FoCo project for GrC 377
